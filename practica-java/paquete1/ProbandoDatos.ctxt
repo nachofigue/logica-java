@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProbandoDatos
+comment0.text=\r\n\ @author\ NachoElVicho\r\n\ @version\ 1.0\r\n
+comment1.params=ent\ carac\ dobl\ flot\ by\ shor
+comment1.target=ProbandoDatos(int,\ char,\ double,\ float,\ byte,\ short)
+comment2.params=
+comment2.target=void\ getDatos()
+comment3.params=potencia
+comment3.target=int\ potenciarEntero(int)
+numComments=4
